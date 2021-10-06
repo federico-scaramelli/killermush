@@ -13,6 +13,11 @@ Game Programming by Federico Scaramelli;
 3D Graphic by Andrea Borille;
 
 ## Notes
-If you want to try it, you can open the project with Unity 2019.2.13f. You can customize enemy spawners on Scene1 and Scene2 in order to test all the enemies. You can create new weapon simply duplicating an already existing one and changing parameters of the Weapon script component.
+If you want to try it, you can open the project with Unity 2019.2.13f. 
+
+You can customize enemy spawners on Scene1 and Scene2 in order to test all the enemies. 
+
+You can create new weapon simply duplicating an already existing one and changing parameters of the Weapon script component.
+
 
 NB: The prototype project is released as it was abandoned.
